@@ -195,13 +195,10 @@ alunos ──► [ Aluno 0 | Aluno 1 | Aluno 2 ]
 
 ---
 
-## 👥 Integrantes
-
 | Nome Completo | Usuário GitHub |
-|---------------|---------------|
-|               |               |
-
-> A atividade pode ser realizada individualmente ou em grupo de até 5 integrantes. Preencha a tabela antes de enviar o e-mail.
+|---------------|----------------|
+|  André Felipe            |    Lipe0505    |
+|  Erick Sartori           |                |
 
 ---
 
